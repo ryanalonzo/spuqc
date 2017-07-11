@@ -28,10 +28,84 @@ header {
 	width: 100%;
 	height: 100%;
 }
+.header-nav-container {
+	width: 734px;
+	height: 91px;
+	float: right;
+	opacity: 0.55;
+}
+#heading {
+	font-size: 16px;
+	font-family: "Roboto Slab";
+	margin-bottom: 3px;
+}
+#details {
+	font-size: 12.5px;
+	font-family: "Open Sans";
+	line-height: 110%;
+	opacity: 0.55;
+}
+.about1 {
+	padding-left: 7px;
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-left: 43px;
+	float: left;
+	width: 120px;
+	height: 47px;
+	border-left: 3px solid black;
+}
+.programs {
+	padding-left: 7px;
+	margin-top: 15px;
+	margin-right: 15px;
+	float: left;
+	width: 225px;
+	height: 47px;
+	border-left: 3px solid black;
+}
+.registrar {
+	padding-left: 7px;
+	margin-top: 15px;
+	margin-right: 15px;
+	float: left;
+	width: 140px;
+	height: 47px;
+	border-left: 3px solid black;
+}
+.alumni {
+	padding-left: 7px;
+	margin-top: 15px;
+	float: left;
+	width: 120px;
+	height: 47px;
+	border-left: 3px solid black;
+}
 nav {
 	width: 100%;
 	background-color: #2e641f;
 	height: 52px;
+}
+.nav-container {
+	width: 960px;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0;
+}
+.nav-container ul {
+	margin-left: -10px;
+	list-style-type: none;
+}
+.nav-container li {
+	float: left;
+	padding: 17px 0 15px 10px;
+	color: white;
+	opacity: 0.60;
+	font-size: 14px;
+	font-family: "Open Sans Light";
+}
+input[type=text] {
+	width: 50px;
 }
 .main {
 	width: 960px;
@@ -128,3 +202,5 @@ footer {
 	background-color: teal;
 	height: 255px;
 }
+
+
