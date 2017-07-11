@@ -33,6 +33,7 @@ header {
 	height: 91px;
 	float: right;
 	opacity: 0.55;
+	margin-top: 2px;
 }
 #heading {
 	font-size: 16px;
@@ -52,7 +53,7 @@ header {
 	margin-left: 43px;
 	float: left;
 	width: 120px;
-	height: 47px;
+	height: 48x;
 	border-left: 3px solid black;
 }
 .programs {
@@ -61,7 +62,7 @@ header {
 	margin-right: 15px;
 	float: left;
 	width: 225px;
-	height: 47px;
+	height: 48x;
 	border-left: 3px solid black;
 }
 .registrar {
@@ -70,7 +71,7 @@ header {
 	margin-right: 15px;
 	float: left;
 	width: 140px;
-	height: 47px;
+	height: 48x;
 	border-left: 3px solid black;
 }
 .alumni {
@@ -78,7 +79,7 @@ header {
 	margin-top: 15px;
 	float: left;
 	width: 120px;
-	height: 47px;
+	height: 48x;
 	border-left: 3px solid black;
 }
 nav {
@@ -104,6 +105,9 @@ nav {
 	font-size: 14px;
 	font-family: "Open Sans Light";
 	text-decoration: none;
+}
+.nav-container ul li a:hover {
+	opacity: 0.90;
 }
 .input-container {
 	float: right;
