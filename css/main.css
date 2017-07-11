@@ -56,7 +56,7 @@ nav {
 }
 .social {
 	width: 100%;
-	height: 900px;
+	height: 590px;
 	background-color: orange; 
 }
 .subscribe {
@@ -86,4 +86,14 @@ nav {
 	width: 470px;
 	height: 250px;
 	float: right;
+}
+.inquiries {
+	width: 100%;
+	height: 500px;
+	background-color: lime; 
+}
+.form {
+	width: 100%;
+	height: 100%;
+	background-color: pink;
 }
