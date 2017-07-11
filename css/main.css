@@ -287,40 +287,101 @@ nav {
 	padding: 20px;
 }
 .about {
-	height: 550px;
+	height: 440px;
 	background-color: #363636;
 	margin-top: 30px;
 	position: relative;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 .about-container {
 	height: 100%;
 	width: 960px;
 	margin: 0 auto;
-	background-color: white;
+}
+#about-headings {
+	font-family: "Roboto Slab";
+	font-size: 16px;
+	color: white;
+	margin-bottom: 20px;
+	opacity: 0.80;
+	font-weight: 300;
 }
 .about-spuqc {
 	height: 100%;
 	width: 240px;
-	background-color: blue;
 	float: left;
+}
+.about-spuqc ul li{
+	list-style-type: none;
+	padding-bottom: 16px;
+	font-family: "Open Sans Light";
+	font-size: 14px;
+}
+.about-spuqc ul li a{
+	text-decoration: none;
+	color: white;
+	opacity: 0.4;
+}
+.about-spuqc ul li a:hover{
+	opacity: 0.7;
 }
 .about-registrar {
 	height: 100%;
 	width: 240px;
-	background-color: green;
 	float: left;
+}
+.about-registrar ul li{
+	list-style-type: none;
+	padding-bottom: 16px;
+	font-family: "Open Sans Light";
+	font-size: 14px;
+}
+.about-registrar ul li a{
+	text-decoration: none;
+	color: white;
+	opacity: 0.4;
+}
+.about-registrar ul li a:hover{
+	opacity: 0.7;
 }
 .about-alumni {
 	height: 100%;
 	width: 240px;
-	background-color: teal;
 	float: left;
+}
+.about-alumni ul li{
+	list-style-type: none;
+	padding-bottom: 16px;
+	font-family: "Open Sans Light";
+	font-size: 14px;
+}
+.about-alumni ul li a{
+	text-decoration: none;
+	color: white;
+	opacity: 0.4;
+}
+.about-alumni ul li a:hover{
+	opacity: 0.7;
 }
 .about-progs-acads {
 	height: 100%;
 	width: 240px;
-	background-color: orange;
 	float: left;
+}
+.about-progs-acads ul li{
+	list-style-type: none;
+	padding-bottom: 16px;
+	font-family: "Open Sans Light";
+	font-size: 14px;
+}
+.about-progs-acads ul li a{
+	text-decoration: none;
+	color: white;
+	opacity: 0.4;
+}
+.about-progs-acads ul li a:hover{
+	opacity: 0.7;
 }
 footer {
 	width: 100%;
