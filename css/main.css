@@ -1,6 +1,7 @@
 * {
 	margin: 0;
 	padding: 0;
+	background-color: grey;
 }
 content {
 	width: 100%;
@@ -20,7 +21,6 @@ nav {
 	width: 960px;
 	height: 950px;
 	margin: 0 auto;
-	background-color: grey;
 }
 .imageHolder {
 	width: 100%;
@@ -32,7 +32,7 @@ nav {
 }
 .reminders {
 	width: 100%;
-	height: 900px;
+	height: 510px;
 	background-color: grey;
 }
 .news {
@@ -53,4 +53,37 @@ nav {
 	height: 510px;
 	float: right;
 	margin-right: 22px;
+}
+.social {
+	width: 100%;
+	height: 900px;
+	background-color: orange; 
+}
+.subscribe {
+	margin-top: 30px;
+	background-color: teal;
+	width: 470px;
+	height: 250px;
+	float: left;
+}
+.fb {
+	margin-top: 30px;
+	background-color: teal;
+	width: 470px;
+	height: 250px;
+	float: right;
+}
+.insta {
+	margin-top: 30px;
+	background-color: teal;
+	width: 470px;
+	height: 250px;
+	float: left;
+}
+.twitter {
+	margin-top: 30px;
+	background-color: teal;
+	width: 470px;
+	height: 250px;
+	float: right;
 }
