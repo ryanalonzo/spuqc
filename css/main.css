@@ -287,18 +287,46 @@ nav {
 	padding: 20px;
 }
 .about {
-	height: 400px;
+	height: 550px;
 	background-color: #363636;
 	margin-top: 30px;
-	padding: 55px 200px 55px 200px;
+	position: relative;
 }
 .about-container {
-
+	height: 100%;
+	width: 960px;
+	margin: 0 auto;
+	background-color: white;
+}
+.about-spuqc {
+	height: 100%;
+	width: 240px;
+	background-color: blue;
+	float: left;
+}
+.about-registrar {
+	height: 100%;
+	width: 240px;
+	background-color: green;
+	float: left;
+}
+.about-alumni {
+	height: 100%;
+	width: 240px;
+	background-color: teal;
+	float: left;
+}
+.about-progs-acads {
+	height: 100%;
+	width: 240px;
+	background-color: orange;
+	float: left;
 }
 footer {
 	width: 100%;
 	background-color: black;
 	height: 255px;
+	opacity: 0.85;
 }
 
 
