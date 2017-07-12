@@ -280,16 +280,22 @@ nav {
 	height: 450px;
 	background-color: white;
 }
-.inquieries-heading {
+.inquiries-heading {
 	border-top: 4px solid #2e641f;
 	border-bottom: 1px solid grey;
 	margin-top: 0;
 	padding: 20px 20px 20px;
 }
-.inquieries-heading p {
+.inquiries-heading p {
 	font-size: 18px;
 	color: #2e641f;
 	font-family: "Roboto Slab";
+}
+.inquiries-details {
+	font-family: "Open Sans Light";
+	font-size: 14px;
+	color: grey;
+	padding: 20px 18px 20px;
 }
 .about {
 	height: 440px;
