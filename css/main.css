@@ -163,22 +163,17 @@ nav {
 	width: 305px;
 	height: 510px;
 	float: left;
-	border-top: 4px solid #2e641f;
 	font-family: "Roboto Slab";
 }
 .news p {
 	font-size: 18px;
 	color: #2e641f;
 }
-.news-container {
-	padding: 20px;
-}
 .announcements {
 	background-color: white;
 	width: 305px;
 	height: 510px;
 	float: left;
-	border-top: 4px solid #2e641f;
 	font-family: "Roboto Slab";
 	margin-left: 23px;
 }
@@ -186,22 +181,15 @@ nav {
 	font-size: 18px;
 	color: #2e641f;
 }
-.announcements-container {
-	padding: 20px;
-}
 .featured p {
 	font-size: 18px;
 	color: #2e641f;
-}
-.featured-container {
-	padding: 20px;
 }
 .featured {
 	background-color: white;
 	width: 305px;
 	height: 510px;
 	float: right;
-	border-top: 4px solid #2e641f;
 	font-family: "Roboto Slab";
 }
 .social {
@@ -214,15 +202,11 @@ nav {
 	width: 470px;
 	height: 250px;
 	float: left;
-	border-top: 4px solid #2e641f;
 	font-family: "Roboto Slab";
 }
 .subscribe p {
 	font-size: 18px;
 	color: #2e641f;
-}
-.subscribe-container {
-	padding: 20px;
 }
 .fb {
 	margin-top: 30px;
@@ -230,15 +214,11 @@ nav {
 	width: 470px;
 	height: 250px;
 	float: right;
-	border-top: 4px solid #2e641f;
 	font-family: "Roboto Slab";
 }
 .fb p {
 	font-size: 18px;
 	color: #2e641f;
-}
-.fb-container {
-	padding: 20px;
 }
 .insta {
 	margin-top: 30px;
@@ -246,15 +226,11 @@ nav {
 	width: 470px;
 	height: 250px;
 	float: left;
-	border-top: 4px solid #2e641f;
 	font-family: "Roboto Slab";
 }
 .insta p {
 	font-size: 18px;
 	color: #2e641f;
-}
-.insta-container {
-	padding: 20px;
 }
 .twitter {
 	margin-top: 30px;
@@ -262,28 +238,24 @@ nav {
 	width: 470px;
 	height: 250px;
 	float: right;
-	border-top: 4px solid #2e641f;
 	font-family: "Roboto Slab";
 }
 .twitter p {
 	font-size: 18px;
 	color: #2e641f;
 }
-.twitter-container {
-	padding: 20px;
-}
 .inquiries {
 	width: 100%;
 	height: 430px;
 	background-color: white;
 }
-.inquiries-heading {
+.heading {
 	border-top: 4px solid #2e641f;
 	border-bottom: 1px solid grey;
 	margin-top: 0;
 	padding: 20px 20px 20px;
 }
-.inquiries-heading p {
+.heading p {
 	font-size: 18px;
 	color: #2e641f;
 	font-family: "Roboto Slab";
